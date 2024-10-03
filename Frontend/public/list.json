@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "ABC",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 2,
+        "name": "COMIC",
+        "title": "DEF",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Magzine",
+        "title": "GHI",
+        "price": 10,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Diectory",
+        "title": "JKL",
+        "price": 15,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Entertainment",
+        "title": "MNO",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 6,
+        "name": "NOVEL",
+        "title": "PQR",
+        "price": 25,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 7,
+        "name": "BioGraphy",
+        "title": "STU",
+        "price": 30,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Auto-Biography",
+        "title": "VWX",
+        "price": 35,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Audio Book",
+        "title": "YZ",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1726392276~exp=1726395876~hmac=a14ff4c03fb76e78b281fe480fb2fce216266c589d381704513f19b6dcceb3d0&w=740"
+    }
+]
